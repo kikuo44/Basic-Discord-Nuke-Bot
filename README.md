@@ -1,5 +1,6 @@
 # Discord Nuke bot
 The bot violates [Discord TOS ](https://discord.com/terms), Use at your own risk !
+
 Made with ♥️ by  _sex. on Discord, Add me if you need any help ! Also make sure to star this.
 
 # Commands
