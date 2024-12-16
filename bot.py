@@ -12,7 +12,7 @@ nuke_message = "@everyone Your-Message" # Put your nuke message here
 nuke_channel_name = "Your-Channel" # Put your nuke channel name here
 bot_prefix = "!"
 
-bot_token = ""
+bot_token = "MTMxODI1MzE0MDExMzM2Mjk3NA.GO0SCB.EBZvPed0derBQgHHVY7nj1f8oH7vKq_1TbZzNI"
 
 # Below is the bot code, Just don't touch it unless you know what you're doing.
 
